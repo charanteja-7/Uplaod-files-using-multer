@@ -17,6 +17,9 @@ This project demonstrates how to handle file uploads in a Node.js application us
 - Node.js (>= 14.x)
 - npm or yarn
 
+### Multer Documentation
+
+- https://www.npmjs.com/package/multer
 ### Installation
 
 1. **Clone the Repository**
